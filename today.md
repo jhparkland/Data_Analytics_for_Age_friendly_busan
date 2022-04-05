@@ -1,2 +1,2 @@
-#Today study
-브랜치 사용법
+# Today study
+- 브랜치 사용법
