@@ -16,6 +16,7 @@
 
 ## 특징
 
+
 ## 기술적 요구사항
 - 코드 간결화
 - 부동산, 고도, 이동 거리에 따른 시간을 수치화 할 수 있는 방법 
@@ -32,4 +33,3 @@
 [로케이션 인텔리젼스](https://www.esri.com/en-us/location-intelligence)(LI: Location Intelligence): 지리공간 데이터(geospatial data)와 비지니스 데이터를 결합하여 새로운 인사이트(insight)를 발굴하는 과정을 의미합니다.
 
 시니어 센터/노인복지시설
-
