@@ -35,6 +35,16 @@
 
 시니어 센터/노인복지시설
 
+
+## 관련 사이트
+https://kosis.kr/statHtml/statHtml.do?orgId=202&tblId=DT_1171&vw_cd=&list_id=00000110&scrId=&seqNo=&lang_mode=ko&obj_var_id=&itm_id=&conn_path=R1&path=
+
+## 발전시킬 사항
+- 입지분석을 위해 고려해야할 요인: 경로당의 설치목적이 여가활동이라고 생각해서 독거노인관련 사이트 추가
+
+
 ## 팀원
 1828989 김현우
 1829122 김남호
+
+
