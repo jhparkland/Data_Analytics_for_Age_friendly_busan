@@ -34,6 +34,18 @@
 
 시니어 센터/노인복지시설
 
+## 참고사이트
+
+[부산 경로당 광역지원센터] (http://www.busansenior.or.kr/05centeredu/00.php)
+
+[부산 노인종합복지관] (http://www.youngsilver.or.kr/theme/grape/mobile/page/sub02.php)
+
+[부산복지개발원] (http://afc.bswdi.re.kr/Main.do)
+
+[OSMnx 고도 정보 관련 메서드] (https://osmnx.readthedocs.io/en/latest/osmnx.html#module-osmnx.elevation)
+
+[부산시 표준공시지가 정보] (http://openapi.nsdi.go.kr/nsdi/eios/ServiceDetail.do?svcSe=F&svcId=F013&provOrg=NIDO) 
+
 
 
 ## 팀원
