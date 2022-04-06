@@ -34,3 +34,10 @@
 [로케이션 인텔리젼스](https://www.esri.com/en-us/location-intelligence)(LI: Location Intelligence): 지리공간 데이터(geospatial data)와 비지니스 데이터를 결합하여 새로운 인사이트(insight)를 발굴하는 과정을 의미합니다. 동일한 용어로 
 
 시니어 센터/노인복지시설
+
+
+## 부산광역시 노인요양시설현황
+
+부산광역시 노인요양시설 현황에 대한 데이터로 연번, 구군, 급여종류, 장기요양기관, 설립연도, 연면적(제곱미터), 전화번호, 주소, 위도, 경도 항목정보
+
+https://www.data.go.kr/data/15071152/fileData.do
