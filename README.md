@@ -66,7 +66,7 @@
 |프로그램을 하기 엔 장소가 협소하다|10,414|16.2|
 |기타|13,813|21.6|   
 
-* 참고자료: <https://www.knoldman.or.kr/bbs/board.php?bo_table=06_03&wr_id=38>
+* 참고자료(p61,p63): <https://www.knoldman.or.kr/bbs/board.php?bo_table=06_03&wr_id=38>
 
 ## 학번
 1952717 최태민
