@@ -37,6 +37,10 @@
 - [노인 실태조사](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/2020%EB%85%84%EB%8F%84_%EB%85%B8%EC%9D%B8%EC%8B%A4%ED%83%9C%EC%A1%B0%EC%82%AC_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 - [노인여가생활 동향 분석](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%A0%95%EB%B3%B4%ED%99%94%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%85%B8%EC%9D%B8%EC%9D%B8%EA%B5%AC%20%EC%97%AC%EA%B0%80%EC%83%9D%ED%99%9C%20%EB%8F%99%ED%96%A5.pdf)
 
+- [대한적십자 무료급식소 데이터](https://www.data.go.kr/data/15089276/fileData.do)
+- [부산광역시_종합병원 현황](https://www.data.go.kr/data/15083386/fileData.do)
+- [부산광역시_행정안전부 약국](https://www.data.go.kr/data/15045036/fileData.do)
+
 ## 관련 용어
 
 [로케이션 인텔리젼스](https://www.esri.com/en-us/location-intelligence)(LI: Location Intelligence): [지리공간 데이터](https://www.ibm.com/topics/geospatial-data)(geospatial data)와 비지니스 데이터를 결합하여 새로운 인사이트(insight)를 발굴하는 과정을 의미합니다.
