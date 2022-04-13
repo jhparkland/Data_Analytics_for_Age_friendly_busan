@@ -27,15 +27,15 @@
 - 주석 필수
 
 ## 국내 참고자료
-- 서울시 빅데이터분석 사례 [참고자료](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EB%85%B8%EC%9D%B8%EC%97%AC%EA%B0%80%EB%B3%B5%EC%A7%80%EC%8B%9C%EC%84%A4%20%EC%9E%85%EC%A7%80%20%EB%B6%84%EC%84%9D.pdf)
+- [서울시 빅데이터분석 사례](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EB%85%B8%EC%9D%B8%EC%97%AC%EA%B0%80%EB%B3%B5%EC%A7%80%EC%8B%9C%EC%84%A4%20%EC%9E%85%EC%A7%80%20%EB%B6%84%EC%84%9D.pdf)
 - 노인복지시설 현황 분석
 - 국내외 논문
 
-  - 공시지가, 경사도 고려 [참고자료](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EA%B3%B5%EC%8B%9C%EC%A7%80%EA%B0%80%2C%20%EA%B2%BD%EC%82%AC%EB%8F%84%20%EA%B3%A0%EB%A0%A4.pdf)
+  - [공시지가, 경사도 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EA%B3%B5%EC%8B%9C%EC%A7%80%EA%B0%80%2C%20%EA%B2%BD%EC%82%AC%EB%8F%84%20%EA%B3%A0%EB%A0%A4.pdf)
   
-  - 교통사고, 동별 노인인구, 유동인구 고려 [참고자료](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%2C%20%EB%8F%99%EB%B3%84%20%EB%85%B8%EC%9D%B8%EC%9D%B8%EA%B5%AC%2C%20%EC%9C%A0%EB%8F%99%EC%9D%B8%EA%B5%AC%20%EA%B3%A0%EB%A0%A4.pdf)
-- 노인 실태조사 [참고자료](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/2020%EB%85%84%EB%8F%84_%EB%85%B8%EC%9D%B8%EC%8B%A4%ED%83%9C%EC%A1%B0%EC%82%AC_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
-- 노인여가생활 동향 분석 [참고자료](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%A0%95%EB%B3%B4%ED%99%94%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%85%B8%EC%9D%B8%EC%9D%B8%EA%B5%AC%20%EC%97%AC%EA%B0%80%EC%83%9D%ED%99%9C%20%EB%8F%99%ED%96%A5.pdf)
+  - [교통사고, 동별 노인인구, 유동인구 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%2C%20%EB%8F%99%EB%B3%84%20%EB%85%B8%EC%9D%B8%EC%9D%B8%EA%B5%AC%2C%20%EC%9C%A0%EB%8F%99%EC%9D%B8%EA%B5%AC%20%EA%B3%A0%EB%A0%A4.pdf)
+- [노인 실태조사](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/2020%EB%85%84%EB%8F%84_%EB%85%B8%EC%9D%B8%EC%8B%A4%ED%83%9C%EC%A1%B0%EC%82%AC_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+- [노인여가생활 동향 분석](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%A0%95%EB%B3%B4%ED%99%94%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%85%B8%EC%9D%B8%EC%9D%B8%EA%B5%AC%20%EC%97%AC%EA%B0%80%EC%83%9D%ED%99%9C%20%EB%8F%99%ED%96%A5.pdf)
 
 ## 관련 용어
 
