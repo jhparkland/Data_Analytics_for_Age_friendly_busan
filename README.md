@@ -27,7 +27,7 @@
 - 주석 필수
 
 ## 국내 참고자료
-- 서울시 빅데이터분석 사례 [참고자료](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EB%85%B8%EC%9D%B8%EC%97%AC%EA%B0%80%EB%B3%B5%EC%A7%80%EC%8B%9C%EC%84%A4%20%EC%9E%85%EC%A7%80%20%EB%B6%84%EC%84%9D.pdf)
+- [서울시 빅데이터분석 사례](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EB%85%B8%EC%9D%B8%EC%97%AC%EA%B0%80%EB%B3%B5%EC%A7%80%EC%8B%9C%EC%84%A4%20%EC%9E%85%EC%A7%80%20%EB%B6%84%EC%84%9D.pdf)
 - 노인복지시설 현황 분석
 - 국내외 논문
 
