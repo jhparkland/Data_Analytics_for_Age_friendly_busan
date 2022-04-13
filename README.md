@@ -11,11 +11,14 @@
 1. 최적화된 입지분석을 위한 데이터 분석 과정 ( 접근성(도보 이동시간), 시니어 센터 이용률, 고령인구 변화 )
 2. 부동산 이론을 차용하여 경로당 최적입지 수리적 모형 설정.
 
+
 ## 향후 진행방향
 우리의 목표는 상업적 프레임워크를 사용하는 것이 아닌, 오픈소스 기반 분석 프레임워크를 향상 개발하고 이에 대한 분석사례 개발을 목표합니다.
 1. 입지분석을 위해 고려해야할 요인을 추가
 2. 현재 도로 네트워크의 교차점별로 데이터가 집계되어 있음. 집계데이터에, 통계학 방법/기계학습/딥러닝/그래프 방법론 등을 적용
 3. 입지분석을 위해 다양한 시각적인 지도, 차트 구현.
+4. 입지분석을 위한 편의시설에 대한 데이터 추가.(무료급식소, 종합병원, 약국)
+
 
 ## 특징
 
@@ -27,21 +30,25 @@
 - 주석 필수
 
 ## 국내 참고자료
-- [서울시 빅데이터분석 사례](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EB%85%B8%EC%9D%B8%EC%97%AC%EA%B0%80%EB%B3%B5%EC%A7%80%EC%8B%9C%EC%84%A4%20%EC%9E%85%EC%A7%80%20%EB%B6%84%EC%84%9D.pdf)
 - 노인복지시설 현황 분석
 - 국내외 논문
+- [서울시 빅데이터분석 사례](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EB%85%B8%EC%9D%B8%EC%97%AC%EA%B0%80%EB%B3%B5%EC%A7%80%EC%8B%9C%EC%84%A4%20%EC%9E%85%EC%A7%80%20%EB%B6%84%EC%84%9D.pdf)
+- [부산 노인복지시설 현황](http://www.busansenior.or.kr/04find/01.php)
+- 대한적십자 무료급식소 데이터 [[Link]](https://www.data.go.kr/data/15089276/fileData.do)
+- 부산광역시_종합병원 현황 [[Link]](https://www.data.go.kr/data/15083386/fileData.do)
+- 부산광역시_행정안전부 약국 [[Link]](https://www.data.go.kr/data/15045036/fileData.do)
 
-  - [공시지가, 경사도 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EA%B3%B5%EC%8B%9C%EC%A7%80%EA%B0%80%2C%20%EA%B2%BD%EC%82%AC%EB%8F%84%20%EA%B3%A0%EB%A0%A4.pdf)
-  
-  - [교통사고, 동별 노인인구, 유동인구 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%2C%20%EB%8F%99%EB%B3%84%20%EB%85%B8%EC%9D%B8%EC%9D%B8%EA%B5%AC%2C%20%EC%9C%A0%EB%8F%99%EC%9D%B8%EA%B5%AC%20%EA%B3%A0%EB%A0%A4.pdf)
+- [공시지가, 경사도 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EA%B3%B5%EC%8B%9C%EC%A7%80%EA%B0%80%2C%20%EA%B2%BD%EC%82%AC%EB%8F%84%20%EA%B3%A0%EB%A0%A4.pdf)
+- [교통사고, 동별 노인인구, 유동인구 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%2C%20%EB%8F%99%EB%B3%84%20%EB%85%B8%EC%9D%B8%EC%9D%B8%EA%B5%AC%2C%20%EC%9C%A0%EB%8F%99%EC%9D%B8%EA%B5%AC%20%EA%B3%A0%EB%A0%A4.pdf)
 - [노인 실태조사](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/2020%EB%85%84%EB%8F%84_%EB%85%B8%EC%9D%B8%EC%8B%A4%ED%83%9C%EC%A1%B0%EC%82%AC_%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
 - [노인여가생활 동향 분석](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%A0%95%EB%B3%B4%ED%99%94%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%85%B8%EC%9D%B8%EC%9D%B8%EA%B5%AC%20%EC%97%AC%EA%B0%80%EC%83%9D%ED%99%9C%20%EB%8F%99%ED%96%A5.pdf)
+- [무료급식소 표준 데이터](https://www.data.go.kr/data/15013107/standard.do)
+- [부산광역시_종합병원 현황](https://www.data.go.kr/data/15083386/fileData.do)
+- [부산광역시_행정안전부 약국](https://www.data.go.kr/data/15045036/fileData.do)
+
 
 ## 관련 용어
 
 [로케이션 인텔리젼스](https://www.esri.com/en-us/location-intelligence)(LI: Location Intelligence): [지리공간 데이터](https://www.ibm.com/topics/geospatial-data)(geospatial data)와 비지니스 데이터를 결합하여 새로운 인사이트(insight)를 발굴하는 과정을 의미합니다.
 
 시니어 센터/노인복지시설
-
-## 현재 노인복지시설의 문제점
-- 도시개발에 중점을 둔 나머지 증가하는 노인인구에 비해 노인복지시설 개발은 늦어지고 있습니다.
