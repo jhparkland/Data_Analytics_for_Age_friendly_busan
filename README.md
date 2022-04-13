@@ -30,7 +30,7 @@
 - 국내외 논문
 - 대한적십자 무료급식소 데이터 [[Link]](https://www.data.go.kr/data/15089276/fileData.do)
 - 부산광역시_종합병원 현황 [[Link]](https://www.data.go.kr/data/15083386/fileData.do)
-- 부산광역시_행정안전부_약국 [[Link]](https://www.data.go.kr/data/15045036/fileData.do)
+- 부산광역시_행정안전부 약국 [[Link]](https://www.data.go.kr/data/15045036/fileData.do)
 
 ## 관련 용어
 [로케이션 인텔리젼스](https://www.esri.com/en-us/location-intelligence)(LI: Location Intelligence): 지리공간 데이터(geospatial data)와 비지니스 데이터를 결합하여 새로운 인사이트(insight)를 발굴하는 과정을 의미합니다.
