@@ -50,6 +50,8 @@
 
 [로케이션 인텔리젼스](https://www.esri.com/en-us/location-intelligence)(LI: Location Intelligence): [지리공간 데이터](https://www.ibm.com/topics/geospatial-data)(geospatial data)와 비지니스 데이터를 결합하여 새로운 인사이트(insight)를 발굴하는 과정을 의미합니다.
 
+행정 구 전체의 경로당의 위치 , 노인들의 밀집 지역 위치 및 자주 이동하는 구역 + 행정 구 전체 경로당 이용수 및 미래의 고령화 예측 결과 = 미래에 필요한 경로당의 수
+
 시니어 센터/노인복지시설
 
 
