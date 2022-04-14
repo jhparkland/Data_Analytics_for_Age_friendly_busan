@@ -44,7 +44,9 @@
 - [무료급식소 표준 데이터](https://www.data.go.kr/data/15013107/standard.do)
 - [부산광역시_종합병원 현황](https://www.data.go.kr/data/15083386/fileData.do)
 - [부산광역시_행정안전부 약국](https://www.data.go.kr/data/15045036/fileData.do)
-
+- 카카오맵 [[Link]](https://map.kakao.com/)
+  - ex) 검색방법 : (지역이름) (노인복지)
+                   (지역이름) (경로당)
 
 ## 관련 용어
 
