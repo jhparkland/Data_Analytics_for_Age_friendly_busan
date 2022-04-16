@@ -30,7 +30,7 @@
 
 ## 참고자료
 
-[참고자료](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/tree/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C)
+[Link](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/tree/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C)
 
 ## 관련 용어
 
