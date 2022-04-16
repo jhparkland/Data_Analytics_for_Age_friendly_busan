@@ -24,16 +24,15 @@
   - ex) 이동 시간(y) = A이동거리(x) + B (A,B : 부동산, 고도)
 - 인구 예측 수식 고도화
 - 주석 필수
+- 고도API 
 
 ## 국내 참고자료
 - [서울시 빅데이터분석 사례](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/data-oss/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EB%85%B8%EC%9D%B8%EC%97%AC%EA%B0%80%EB%B3%B5%EC%A7%80%EC%8B%9C%EC%84%A4%20%EC%9E%85%EC%A7%80%20%EB%B6%84%EC%84%9D.pdf) 
 - 노인복지시설 현황 분석
 - 국내외 논문
+- [경로당 피해 및 문제점 사례](http://www.kookje.co.kr/news2011/asp/newsbody.asp?code=0300&key=20211005.33008000720&fbclid=IwAR29zSR3IlP4IZGYBLrSqwZqur_UVuOJoVV1y_H8_yFNm454ySM6Q0ll104)
 
 ## 관련 용어
 [로케이션 인텔리젼스](https://www.esri.com/en-us/location-intelligence)(LI: Location Intelligence): 지리공간 데이터(geospatial data)와 비지니스 데이터를 결합하여 새로운 인사이트(insight)를 발굴하는 과정을 의미합니다. 동일한 용어로 
 
 시니어 센터/노인복지시설
-
-## 팀원
-1924257 배성환
