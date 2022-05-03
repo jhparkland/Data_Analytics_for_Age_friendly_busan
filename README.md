@@ -1,6 +1,6 @@
 # Decison Location of Senior Center on Data Analytics for Age-friendly Busan
 고령친화도시 위한 데이터 기반 최적 경로당 입지 선정 
-
+111
 
 ## 개요
 국제보건기구 WHO는 [Age-Friendly World](https://extranet.who.int/agefriendlyworld/age-friendly-cities-framework/) 프레임워크 내 8개의 상호연결된 도메인을 제안하였습니다. 도메인은 노인들의 건강과 참여에 대한 경계를 식별 및 언급하는데 도움을 줄 수 있습니다. 우리는 오픈 데이터 기반 로케이션 인텔리젼스 프레임워크를 제안함으로서 고령친화 도시 부산에 관련된 정책의 투명성과 정책품질의 향상을 추구합니다. 고령친화도시 부산의 정책적 방향은 5대 전략과 20대 과제, 110개의 세부사업으로 구성됩니다 [관련링크](http://afc.bswdi.re.kr/Main.do). 우리의 목표는 진행중/실시될 정책에 대하여 오픈 데이터와 함께 분석사례를 만들어 재사용 및 재생산이 가능하면서도 확장가능한 오픈소스 기반 분석 프레임워크와 그에 대한 사례를 개발하는 것입니다.
