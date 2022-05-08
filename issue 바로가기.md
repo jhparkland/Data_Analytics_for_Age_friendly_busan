@@ -1,56 +1,56 @@
 # Issue 바로가기
 ## [접근성 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%A0%91%EA%B7%BC%EC%84%B1%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
 
-- [경사도에 따른 이동거리 차이 계산을 위한 경사도 계산 수식 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/113)[ by DongUk-Park](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3ADongUk-Park)
+- [경사도에 따른 이동거리 차이 계산을 위한 경사도 계산 수식 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/113)[ by DongUk-Park](https://github.com/DongUk-Park)
 
-- [입지선정 고려요소에 땅값 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/182)[ by beforemin216](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Abeforemin216)
+- [입지선정 고려요소에 땅값 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/182)[ by beforemin216](https://github.com/beforemin216)
 
-- [교통이 발달된 입지 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/197)[ by rvjst](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Arvjst)
+- [교통이 발달된 입지 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/197)[ by rvjst](https://github.com/rvjst)
 
-- [접근성 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/221)[ by dainnnnn](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Adainnnnn)
+- [접근성 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/221)[ by dainnnnn](https://github.com/dainnnnn)
 
-- [참고자료, 중소도시 지역 거주 고령자의 경로당 프로그램 이용 실태 및 활용 전망 핵심 요약](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/236)[ by k69121](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Ak69121)
+- [참고자료, 중소도시 지역 거주 고령자의 경로당 프로그램 이용 실태 및 활용 전망 핵심 요약](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/236)[ by k69121](https://github.com/k69121)
 
 
 ## [입지 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%9E%85%EC%A7%80%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
 
-- [입지요건 선정에 필요한 편의시설 데이터 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/128)[ by WaiCat](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3AWaiCat)
+- [입지요건 선정에 필요한 편의시설 데이터 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/128)[ by WaiCat](https://github.com/WaiCat)
 
-- [경로당 입지조건 고려요소 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/130)[ by dainnnnn](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Adainnnnn)
+- [경로당 입지조건 고려요소 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/130)[ by dainnnnn](https://github.com/dainnnnn)
 
-- [권역에 따른 입지선정](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/136)[ by Choiyuhyeon](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3AChoiyuhyeon)
+- [권역에 따른 입지선정](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/136)[ by Choiyuhyeon](https://github.com/Choiyuhyeon)
 
-- [다른 건물의 위치를 고려한 경로당 위치 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/140)[ by pear-c](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Apear-c)
+- [다른 건물의 위치를 고려한 경로당 위치 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/140)[ by pear-c](https://github.com/pear-c)
 
-- [입지요건](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/166)[ by jihoonjeong56](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Ajihoonjeong56)
+- [입지요건](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/166)[ by jihoonjeong56](https://github.com/jihoonjeong56)
 
-- [후보지 선정시 참고사항](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/167)[ by jihoonjeong56](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Ajihoonjeong56)
+- [후보지 선정시 참고사항](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/167)[ by jihoonjeong56](https://github.com/jihoonjeong56)
 
-- [경로당 위치 의견 - 성별에 따른 경로당 이용률](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/176)[ by kjjyyy](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Akjjyyy)
+- [경로당 위치 의견 - 성별에 따른 경로당 이용률](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/176)[ by kjjyyy](https://github.com/kjjyyy)
 
-- [경로당 입지 관련 의견 - 노인 소득과 관련하여](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/181)[ by kjjyyy](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Akjjyyy)
+- [경로당 입지 관련 의견 - 노인 소득과 관련하여](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/181)[ by kjjyyy](https://github.com/kjjyyy)
 
-- [부동산 경제학 이론을 차용한다면 입지 선정에 있어 이론적 근거가 탄탄해질 것 같습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/185)[ by Sagongmin](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3ASagongmin)
+- [부동산 경제학 이론을 차용한다면 입지 선정에 있어 이론적 근거가 탄탄해질 것 같습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/185)[ by Sagongmin](https://github.com/Sagongmin)
 
-- [독거노인 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/186)[ by 1829122](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3A1829122)
+- [독거노인 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/186)[ by 1829122](https://github.com/1829122)
 
-- [입지 관련 의견 - 경로당 이용자의 인지성](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/192)[ by paul0817](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Apaul0817)
+- [입지 관련 의견 - 경로당 이용자의 인지성](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/192)[ by paul0817](https://github.com/paul0817)
 
-- [시장 내 경로당 입지](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/195)[ by beforemin216](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Abeforemin216)
+- [시장 내 경로당 입지](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/195)[ by beforemin216](https://github.com/beforemin216)
 
-- [경로당 입지 주변 시설 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/198)[ by gymdong](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Agymdong)
+- [경로당 입지 주변 시설 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/198)[ by gymdong](https://github.com/gymdong)
 
-- [최적입지에 고도를 고려 한다면](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/200)[ by hhhhmang](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Ahhhhmang)
+- [최적입지에 고도를 고려 한다면](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/200)[ by hhhhmang](https://github.com/hhhhmang)
 
-- [공원, 산책로 등의 요소 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/201)[ by 1829122](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3A1829122)
+- [공원, 산책로 등의 요소 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/201)[ by 1829122](https://github.com/1829122)
 
-- [입지 선정에 대한 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/205)[ by HIT18216](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3AHIT18216)
+- [입지 선정에 대한 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/205)[ by HIT18216](https://github.com/HIT18216)
 
-- [경로당 입지 관련 의견제시](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/217)[ by Kim-qjaJ](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3AKim-qjaJ)
+- [경로당 입지 관련 의견제시](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/217)[ by Kim-qjaJ](https://github.com/Kim-qjaJ)
 
-- [경로당 입지선정시 체육시설 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/224)[ by KoEunseong](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3AKoEunseong)
+- [경로당 입지선정시 체육시설 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/224)[ by KoEunseong](https://github.com/KoEunseong)
 
-- [각 경로당 위치를 고려하여 10분이내 거리 밖에 경로당을 짓는게 좋을거 같습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/232)[ by k69121](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=is%3Aissue+author%3Ak69121)
+- [각 경로당 위치를 고려하여 10분이내 거리 밖에 경로당을 짓는게 좋을거 같습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/232)[ by k69121](https://github.com/k69121)
 
 
 ## [이용률 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%9D%B4%EC%9A%A9%EB%A5%A0%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
