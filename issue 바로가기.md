@@ -1,7 +1,7 @@
 # Issue 바로가기
 ## [접근성 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%A0%91%EA%B7%BC%EC%84%B1%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
 
-- [경사도에 따른 이동거리 차이 계산을 위한 경사도 계산 수식 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/113)[ by DongUk-Park](https://github.com/DongUk-Park)
+- [경사도에 따른 이동거리 차이 계산을 위한 경사도 계산 수식 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/113)__[ by DongUk-Park](https://github.com/DongUk-Park)
 
 - [입지선정 고려요소에 땅값 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/182)[ by beforemin216](https://github.com/beforemin216)
 
