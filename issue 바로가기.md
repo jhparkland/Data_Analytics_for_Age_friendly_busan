@@ -77,100 +77,100 @@
 
 - [다른 지역과의 경로당 이용률 비교](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/193)_[ by MwaungMwaung](https://github.com/MwaungMwaung)
 
-- [읍·면 지역과 동 지역의 이용률과 향후 이용희망률 비교](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/211)_[ by HIT18216](https://github.com/)
+- [읍·면 지역과 동 지역의 이용률과 향후 이용희망률 비교](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/211)_[ by HIT18216](https://github.com/HIT18216)
 
-- [부산 광역시 연령별 경로당 현황 관련 자료](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/215)_[ by KoEunseong](https://github.com/)
+- [부산 광역시 연령별 경로당 현황 관련 자료](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/215)_[ by KoEunseong](https://github.com/KoEunseong)
 
-- [연령별 경로당 이용률 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/219)_[ by Quwhsa](https://github.com/)
+- [연령별 경로당 이용률 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/219)_[ by Quwhsa](https://github.com/Quwhsa)
 
-- [경로당 이용률](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/229)_[ by hhhhmang](https://github.com/)
+- [경로당 이용률](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/229)_[ by hhhhmang](https://github.com/hhhhmang)
 
-- [참고자료, 중소도시 지역 거주 고령자의 경로당 프로그램 이용 실태 및 활용 전망 핵심 요약](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/236)_[ by k69121](https://github.com/)
+- [참고자료, 중소도시 지역 거주 고령자의 경로당 프로그램 이용 실태 및 활용 전망 핵심 요약](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/236)_[ by k69121](https://github.com/k69121)
 
 
 ## [시각화 코드 관련 오류](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%BD%94%EB%93%9C%20%EA%B4%80%EB%A0%A8%20%EC%98%A4%EB%A5%98)
 
 ## [시각화 관련 코드](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%8B%9C%EA%B0%81%ED%99%94%20%EA%B4%80%EB%A0%A8%20%EC%BD%94%EB%93%9C)
 
-- [시각화 관련 추가요소](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/179)_[ by ]()
+- [시각화 관련 추가요소](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/179)_[ by as1901as](https://github.com/as1901as)
 
 
 ## [시각화 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%8B%9C%EA%B0%81%ED%99%94%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
 
-- [입지 분석 모델의 시각화](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/183)_[ by ]()
+- [입지 분석 모델의 시각화](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/183)_[ by TAEYOUNGY00N](https://github.com/TAEYOUNGY00N)
 
-- [시각화 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/223)_[ by ]()
+- [시각화 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/223)_[ by dainnnnn](https://github.com/dainnnnn)
 
 
 ## [수식에 대한 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%88%98%EC%8B%9D%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%98%EA%B2%AC)
 
 ## [문서 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EB%AC%B8%EC%84%9C%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
 
-- [milestone의 활성화를 제안합니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/122)_[ by ]()
+- [milestone의 활성화를 제안합니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/122)_[ by BlueArcticFox](https://github.com/BlueArcticFox)
 
-- [변수 이름 통일과 old_people을 대체할 수 있는 단어 제안](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/123)_[ by ]()
+- [변수 이름 통일과 old_people을 대체할 수 있는 단어 제안](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/123)_[ by MwaungMwaung](https://github.com/MwaungMwaung)
 
-- [라벨을 정리해 봤습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/170)_[ by ]()
+- [라벨을 정리해 봤습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/170)_[ by k69121](https://github.com/k69121)
 
-- [오류 관련 라벨을 추가하였습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/173)_[ by ]()
+- [오류 관련 라벨을 추가하였습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/173)_[ by k69121](https://github.com/k69121)
 
-- [Read me 참고자료 이름 변경 제안](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/174)_[ by ]()
+- [Read me 참고자료 이름 변경 제안](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/174)_[ by paul0817](https://github.com/paul0817)
 
-- [답변 완료된 이슈 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/175)_[ by ]()
+- [답변 완료된 이슈 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/175)_[ by k69121](https://github.com/k69121)
 
-- [통계자료나 참고자료올릴떄 최근자료를 사용하는게 어떨까요?](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/189)_[ by ]()
+- [통계자료나 참고자료올릴떄 최근자료를 사용하는게 어떨까요?](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/189)_[ by k69121](https://github.com/k69121)
 
-- [논문, 자료를 참고한 이슈에서 링크나 출처를 공개하면 좋을 거 같습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/213)_[ by ]()
+- [논문, 자료를 참고한 이슈에서 링크나 출처를 공개하면 좋을 거 같습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/213)_[ by hesuhesu](https://github.com/hesuhesu)
 
-- [문서 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/214)_[ by ]()
+- [문서 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/214)_[ by Sagongmin](https://github.com/Sagongmin)
 
-- [issue 간 내용 중복에 관하여](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/218https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/225)_[ by ]()
+- [issue 간 내용 중복에 관하여](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/218https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/225)_[ by SIMOOLOOK](https://github.com/SIMOOLOOK)
 
-- [참고 자료.md 문제](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/225)_[ by ]()
+- [참고 자료.md 문제](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/225)_[ by paul0817](https://github.com/paul0817)
 
 ## [데이터 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
 
-- [노인복지시설 현황 참고자료 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/115)_[ by ]()
+- [노인복지시설 현황 참고자료 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/115)_[ by ](https://github.com/)
 
-- [부산 고령인구 증가 추세 파악 데이터 최신화](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/117)_[ by ]()
+- [부산 고령인구 증가 추세 파악 데이터 최신화](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/117)_[ by ](https://github.com/)
 
-- [보호구역](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/126)_[ by ]()
+- [보호구역](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/126)_[ by ](https://github.com/)
 
-- [입지요건 선정에 필요한 편의시설 데이터 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/128)_[ by ]()
+- [입지요건 선정에 필요한 편의시설 데이터 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/128)_[ by ](https://github.com/)
 
-- [노인복지시설 고려 요소 추가 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/133)_[ by ]()
+- [노인복지시설 고려 요소 추가 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/133)_[ by ](https://github.com/)
 
-- [경로당 이용인원에 대한 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/168)_[ by ]()
+- [경로당 이용인원에 대한 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/168)_[ by ](https://github.com/)
 
-- [경로당 현황에 대한 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/169)_[ by ]()
+- [경로당 현황에 대한 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/169)_[ by ](https://github.com/)
 
-- [2021년ver 부산 50~100  추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/220)_[ by ]()
+- [2021년ver 부산 50~100  추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/220)_[ by ](https://github.com/)
 
-- [각 경로당 위치를 고려하여 10분이내 거리 밖에 경로당을 짓는게 좋을거 같습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/232)_[ by ]()
+- [각 경로당 위치를 고려하여 10분이내 거리 밖에 경로당을 짓는게 좋을거 같습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/232)_[ by ](https://github.com/)
 
 ## [데이터 관련 오류](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B4%80%EB%A0%A8%20%EC%98%A4%EB%A5%98)
 
 ## [기타 코드](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EA%B8%B0%ED%83%80%20%EC%BD%94%EB%93%9C)
 
-- [변수 이름 통일과 old_people을 대체할 수 있는 단어 제안](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/123)_[ by ]()
+- [변수 이름 통일과 old_people을 대체할 수 있는 단어 제안](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/123)_[ by ](https://github.com/)
 
 ## [기타 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EA%B8%B0%ED%83%80%20%EC%9D%98%EA%B2%AC)
 
-- [고령층의 삶의 만족도 높여주는 방법](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/114)_[ by ]()
+- [고령층의 삶의 만족도 높여주는 방법](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/114)_[ by ](https://github.com/)
 
-- [Issue 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/187)_[ by ]()
+- [Issue 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/187)_[ by ](https://github.com/)
 
-- [경로당 이용에 관련한 기타 제언](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/190)_[ by ]()
+- [경로당 이용에 관련한 기타 제언](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/190)_[ by ](https://github.com/)
 
-- [경로당 최적 입지 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/203)_[ by ]()
+- [경로당 최적 입지 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/203)_[ by ](https://github.com/)
 
-- [경로당 주별 이용 횟수](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/204)_[ by ]()
+- [경로당 주별 이용 횟수](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/204)_[ by ](https://github.com/)
 
-- [경로당 접근성및 이용률에 관한 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/206)_[ by ]()
+- [경로당 접근성및 이용률에 관한 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/206)_[ by ](https://github.com/)
 
-- [경로당 이용자 연령 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/207)_[ by ]()
+- [경로당 이용자 연령 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/207)_[ by ](https://github.com/)
 
-- [경로당 위치에 관하여](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/209)_[ by ]()
+- [경로당 위치에 관하여](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/209)_[ by ](https://github.com/)
 
 ## [기타 오류](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EA%B8%B0%ED%83%80%20%EC%98%A4%EB%A5%98)
 
