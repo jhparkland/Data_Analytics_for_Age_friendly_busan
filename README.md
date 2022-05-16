@@ -53,3 +53,5 @@
 
 시니어 센터/노인복지시설
 
+# Kaggle 
+[Kaggle notebook](https://www.kaggle.com/code/jhparkland/data-analytics-for-age-friendly-busan/notebook)
