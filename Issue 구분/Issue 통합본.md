@@ -51,7 +51,7 @@
 - [경로당 입지선정시 체육시설 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/224)___[ by KoEunseong](https://github.com/KoEunseong)
 
 - [각 경로당 위치를 고려하여 10분이내 거리 밖에 경로당을 짓는게 좋을거 같습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/232)___[ by k69121](https://github.com/k69121)
-- [추가 입지요건 우선순위 부여하기](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/248)___[ by MMIINNNN]
+- [추가 입지요건 우선순위 부여하기](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/248)___[ by MMIINNNN](https://github.com/MMIINNNN)
 
 
 ## [이용률 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%9D%B4%EC%9A%A9%EB%A5%A0%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
