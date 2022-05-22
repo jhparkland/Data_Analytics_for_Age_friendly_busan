@@ -51,6 +51,7 @@
 - [경로당 입지선정시 체육시설 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/224)___[ by KoEunseong](https://github.com/KoEunseong)
 
 - [각 경로당 위치를 고려하여 10분이내 거리 밖에 경로당을 짓는게 좋을거 같습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/232)___[ by k69121](https://github.com/k69121)
+- [추가 입지요건 우선순위 부여하기](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/248)___[ by MMIINNNN]
 
 
 ## [이용률 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%9D%B4%EC%9A%A9%EB%A5%A0%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
@@ -86,7 +87,7 @@
 - [경로당 이용률](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/229)___[ by hhhhmang](https://github.com/hhhhmang)
 
 - [참고자료, 중소도시 지역 거주 고령자의 경로당 프로그램 이용 실태 및 활용 전망 핵심 요약](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/236)___[ by k69121](https://github.com/k69121)
-
+- [신축 경로당 입지에 대한 의견.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/241)___[ by chan2ee](https://github.com/chan2ee)
 
 ## [시각화 코드 관련 오류](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%BD%94%EB%93%9C%20%EA%B4%80%EB%A0%A8%20%EC%98%A4%EB%A5%98)
 
