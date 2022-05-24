@@ -33,9 +33,9 @@
 - 국내외 논문
 - [서울시 빅데이터분석 사례](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EC%84%9C%EC%9A%B8%EC%8B%9C%20%EB%85%B8%EC%9D%B8%EC%97%AC%EA%B0%80%EB%B3%B5%EC%A7%80%EC%8B%9C%EC%84%A4%20%EC%9E%85%EC%A7%80%20%EB%B6%84%EC%84%9D.pdf)
 - [부산 노인복지시설 현황](http://www.busansenior.or.kr/04find/01.php)
-- 대한적십자 무료급식소 데이터 [[Link]](https://www.data.go.kr/data/15089276/fileData.do)
-- 부산광역시_종합병원 현황 [[Link]](https://www.data.go.kr/data/15083386/fileData.do)
-- 부산광역시_행정안전부 약국 [[Link]](https://www.data.go.kr/data/15045036/fileData.do)
+- [대한적십자 무료급식소 데이터](https://www.data.go.kr/data/15089276/fileData.do)
+- [부산광역시_종합병원 현황](https://www.data.go.kr/data/15083386/fileData.do)
+- [부산광역시_행정안전부 약국](https://www.data.go.kr/data/15045036/fileData.do)
 
 - [공시지가, 경사도 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EA%B3%B5%EC%8B%9C%EC%A7%80%EA%B0%80%2C%20%EA%B2%BD%EC%82%AC%EB%8F%84%20%EA%B3%A0%EB%A0%A4.pdf)
 - [교통사고, 동별 노인인구, 유동인구 고려](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/blob/main/%EC%B0%B8%EA%B3%A0%EC%9E%90%EB%A3%8C/%EA%B5%90%ED%86%B5%EC%82%AC%EA%B3%A0%2C%20%EB%8F%99%EB%B3%84%20%EB%85%B8%EC%9D%B8%EC%9D%B8%EA%B5%AC%2C%20%EC%9C%A0%EB%8F%99%EC%9D%B8%EA%B5%AC%20%EA%B3%A0%EB%A0%A4.pdf)
@@ -44,7 +44,9 @@
 - [무료급식소 표준 데이터](https://www.data.go.kr/data/15013107/standard.do)
 - [부산광역시_종합병원 현황](https://www.data.go.kr/data/15083386/fileData.do)
 - [부산광역시_행정안전부 약국](https://www.data.go.kr/data/15045036/fileData.do)
-
+- [카카오맵](https://map.kakao.com/)
+  - ex) 검색방법 : (지역이름) (노인복지) or (지역이름) (경로당)
+- [2022년 노인보건복지사업안내](http://www.mohw.go.kr/react/jb/sjb030301vw.jsp)
 
 ## 관련 용어
 
@@ -55,10 +57,5 @@
 
 시니어 센터/노인복지시설
 
-
-## 현재 노인복지시설의 문제점
-
-- 도시개발에 중점을 둔 나머지 증가하는 노인인구에 비해 노인복지시설 개발은 늦어지고 있음
-- 예전과는 다른 65세 이상 노인들의 수준에 맞지 않는 프로그램
-- 노후화된 시설 방치
-- 도시개발에 중점을 둔 나머지 증가하는 노인인구에 비해 노인복지시설 개발은 늦어지고 있습니다.
+# Kaggle 
+[Kaggle notebook](https://www.kaggle.com/code/jhparkland/data-analytics-for-age-friendly-busan/notebook)
