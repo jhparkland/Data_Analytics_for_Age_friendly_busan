@@ -46,6 +46,7 @@
 - [부산광역시_행정안전부 약국](https://www.data.go.kr/data/15045036/fileData.do)
 - [카카오맵](https://map.kakao.com/)
   - ex) 검색방법 : (지역이름) (노인복지) or (지역이름) (경로당)
+- [2022년 노인보건복지사업안내](http://www.mohw.go.kr/react/jb/sjb030301vw.jsp)
 
 ## 관련 용어
 
