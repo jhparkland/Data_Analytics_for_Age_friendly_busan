@@ -58,3 +58,5 @@
 
 # Kaggle 
 [Kaggle notebook](https://www.kaggle.com/code/jhparkland/data-analytics-for-age-friendly-busan/notebook)
+
+### 1724269 김동찬
