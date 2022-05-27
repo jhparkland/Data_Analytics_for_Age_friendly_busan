@@ -1,0 +1,1 @@
+http://210.103.81.103/geoserver/wfs?request=GetFeature&service=WFS&version=1.0.0&typeName=pub:tl_senior_center&outputFormat=SHAPE-ZIP&format_options=charset:euc-kr
