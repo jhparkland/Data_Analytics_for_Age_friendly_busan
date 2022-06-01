@@ -1,5 +1,5 @@
 # Issue 바로가기
-## [접근성 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%A0%91%EA%B7%BC%EC%84%B1%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
+## [접근성 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%A0%91%EA%B7%BC%EC%84%B1%20%EA%B4%80%EB%A0%A8)
 
 - [경사도에 따른 이동거리 차이 계산을 위한 경사도 계산 수식 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/113)___[ by DongUk-Park](https://github.com/DongUk-Park)
 
@@ -11,8 +11,10 @@
 
 - [참고자료, 중소도시 지역 거주 고령자의 경로당 프로그램 이용 실태 및 활용 전망 핵심 요약](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/236)___[ by k69121](https://github.com/k69121)
 
+- [여정시간 계산 코드 개선방안](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/258)___[_by_Choiyuhyeon](https://github.com/Choiyuhyeon)
 
-## [입지 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%9E%85%EC%A7%80%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
+
+## [입지 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%9E%85%EC%A7%80%20%EA%B4%80%EB%A0%A8)
 
 - [입지요건 선정에 필요한 편의시설 데이터 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/128)___[ by WaiCat](https://github.com/WaiCat)
 
@@ -52,8 +54,10 @@
 
 - [각 경로당 위치를 고려하여 10분이내 거리 밖에 경로당을 짓는게 좋을거 같습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/232)___[ by k69121](https://github.com/k69121)
 
+- [추가 입지요건 우선순위 부여하기](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/248)___[_by_MMIINNNN](https://github.com/MMIINNNN)
 
-## [이용률 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%9D%B4%EC%9A%A9%EB%A5%A0%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
+
+## [이용률 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%9D%B4%EC%9A%A9%EB%A5%A0%20%EA%B4%80%EB%A0%A8)
 
 - [경로당 이용률의 사회적 참여요소 대체 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/102)___[ by pear-c](https://github.com/pear-c)
 
@@ -87,24 +91,30 @@
 
 - [참고자료, 중소도시 지역 거주 고령자의 경로당 프로그램 이용 실태 및 활용 전망 핵심 요약](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/236)___[ by k69121](https://github.com/k69121)
 
+- [신축 경로당 입지에 대한 의견.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/241)___[_by_chan2ee](https://github.com/chan2ee)
 
-## [시각화 코드 관련 오류](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%8B%9C%EA%B0%81%ED%99%94%20%EC%BD%94%EB%93%9C%20%EA%B4%80%EB%A0%A8%20%EC%98%A4%EB%A5%98)
 
-## [시각화 관련 코드](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%8B%9C%EA%B0%81%ED%99%94%20%EA%B4%80%EB%A0%A8%20%EC%BD%94%EB%93%9C)
+## [시각화 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%8B%9C%EA%B0%81%ED%99%94%20%EA%B4%80%EB%A0%A8)
 
 - [시각화 관련 추가요소](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/179)___[ by as1901as](https://github.com/as1901as)
-
-
-## [시각화 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%8B%9C%EA%B0%81%ED%99%94%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
 
 - [입지 분석 모델의 시각화](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/183)___[ by TAEYOUNGY00N](https://github.com/TAEYOUNGY00N)
 
 - [시각화 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/223)___[ by dainnnnn](https://github.com/dainnnnn)
 
+- [편의시설 데이터 시각화는 어떨까요?](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/278)___[_by_gymdong](https://github.com/gymdong)
 
-## [수식에 대한 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%88%98%EC%8B%9D%EC%97%90%20%EB%8C%80%ED%95%9C%20%EC%9D%98%EA%B2%AC)
 
-## [문서 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EB%AC%B8%EC%84%9C%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
+## [수식 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=label%3A%22%EC%88%98%EC%8B%9D+%EA%B4%80%EB%A0%A8%22+is%3Aclosed)
+
+- [수식에 대한 의견 라벨을 추가하였습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/290)___[_by_pear-c](https://github.com/pear-c)
+
+- [여정시간 계산 코드 개선방안](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/258)___[_by_Choiyuhyeon](https://github.com/Choiyuhyeon)
+
+- [고도 및 경사도 분석 코드](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/184)___[_by_sammundong](https://github.com/sammundong)
+
+
+## [문서 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues?q=label%3A%22%EB%AC%B8%EC%84%9C+%EA%B4%80%EB%A0%A8%22+is%3Aclosed)
 
 - [milestone의 활성화를 제안합니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/122)___[ by BlueArcticFox](https://github.com/BlueArcticFox)
 
@@ -128,7 +138,16 @@
 
 - [참고 자료.md 문제](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/225)___[ by paul0817](https://github.com/paul0817)
 
-## [데이터 관련 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B4%80%EB%A0%A8%20%EC%9D%98%EA%B2%AC)
+- [Label을 깔끔하게 수정하였습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/270)___[_by_k69121](https://github.com/k69121)
+
+- [issues 3일 넘으면 closed 하고자 합니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/272)___[_by_k69121](https://github.com/k69121)
+
+- [CONTRIBUTING.md 파일 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/304)___[_by_SIMOOLOOK](https://github.com/SIMOOLOOK)
+
+- [README.md 수정](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/306)___[_by_SIMOOLOOK](https://github.com/SIMOOLOOK)
+
+
+## [Data 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/Data%20%EA%B4%80%EB%A0%A8)
 
 - [노인복지시설 현황 참고자료 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/115)___[ by TayJeong](https://github.com/TayJeong)
 
@@ -148,13 +167,18 @@
 
 - [각 경로당 위치를 고려하여 10분이내 거리 밖에 경로당을 짓는게 좋을거 같습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/232)___[ by k69121](https://github.com/k69121)
 
-## [데이터 관련 오류](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B4%80%EB%A0%A8%20%EC%98%A4%EB%A5%98)
+- [2021년 인구 현황 데이터를 수정하였습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/244)___[ by k69121](https://github.com/k69121)
 
-## [기타 코드](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EA%B8%B0%ED%83%80%20%EC%BD%94%EB%93%9C)
+- [편의시설 약국 데이터 추가했습니다.](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/284)___[_by_gymdong](https://github.com/gymdong)
 
-- [변수 이름 통일과 old_people을 대체할 수 있는 단어 제안](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/123)___[ by MwaungMwaung](https://github.com/MwaungMwaung)
+- [부산 노인교실 현황](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/285)___[_by_winnersupa](https://github.com/winnersupa)
 
-## [기타 의견](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EA%B8%B0%ED%83%80%20%EC%9D%98%EA%B2%AC)
+- [운동시설 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/309)___[_by_winnersupa](https://github.com/winnersupa)
+
+- [부산시 버스정류소 위치](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/pull/314)___[_by_dainnnnn](https://github.com/dainnnnn)
+
+
+## [기타](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EA%B8%B0%ED%83%80)
 
 - [고령층의 삶의 만족도 높여주는 방법](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/114)___[ by tam31](https://github.com/tam31)
 
@@ -172,7 +196,13 @@
 
 - [경로당 위치에 관하여](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/209)___[ by 02chan](https://github.com/02chan)
 
+- [도움 될 만한 자료 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/pull/293)___[ by Sagongmin](https://github.com/Sagongmin)
+
+- [변수 이름 통일과 old_people을 대체할 수 있는 단어 제안](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/123)___[ by MwaungMwaung](https://github.com/MwaungMwaung)
+
+
 ## [pandas 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/pandas%20%EA%B4%80%EB%A0%A8)
+
 
 ## [osmnx 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/osmnx%20%EA%B4%80%EB%A0%A8)
 
