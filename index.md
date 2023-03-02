@@ -1,3 +1,11 @@
+---
+layout: project
+title: Data_Analytics_for_Age_friendly_busan/
+project: Data_Analytics_for_Age_friendly_busan
+repo: jhparkland/Data_Analytics_for_Age_friendly_busan
+permalink: /:path/:basename:output_ext
+---
+
 # Decison Location of Senior Center on Data Analytics for Age-friendly Busan
 고령 친화도시 위한 데이터 기반 최적 경로당 입지 선정 
 

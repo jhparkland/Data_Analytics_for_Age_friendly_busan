@@ -1,3 +1,11 @@
+---
+layout: project
+title: Data_Analytics_for_Age_friendly_busan/Issue 구분/Issue Lables/Data 관련
+project: Data_Analytics_for_Age_friendly_busan
+repo: jhparkland/Data_Analytics_for_Age_friendly_busan
+permalink: /:path/:basename:output_ext
+---
+
 ## [Data 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/Data%20%EA%B4%80%EB%A0%A8)
 
 - [노인복지시설 현황 참고자료 추가](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/issues/115)___[ by TayJeong](https://github.com/TayJeong)

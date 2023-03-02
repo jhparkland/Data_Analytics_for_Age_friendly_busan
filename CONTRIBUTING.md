@@ -1,3 +1,11 @@
+---
+layout: project
+title: Data_Analytics_for_Age_friendly_busan/CONTRIBUTING
+project: Data_Analytics_for_Age_friendly_busan
+repo: jhparkland/Data_Analytics_for_Age_friendly_busan
+permalink: /:path/:basename:output_ext
+---
+
 # issue 작성 시 가이드라인 <br></br>
 
 **1. 새로운 이슈 제출 전 해당되는 라벨을 검색하여 앞서 관련된 내용의 이슈가 있는지 확인합시다.** 

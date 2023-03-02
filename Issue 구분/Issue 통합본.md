@@ -1,3 +1,11 @@
+---
+layout: project
+title: Data_Analytics_for_Age_friendly_busan/Issue 구분/Issue 통합본
+project: Data_Analytics_for_Age_friendly_busan
+repo: jhparkland/Data_Analytics_for_Age_friendly_busan
+permalink: /:path/:basename:output_ext
+---
+
 # Issue 바로가기
 ## [접근성 관련](https://github.com/pwjdgus/Data_Analytics_for_Age_friendly_busan/labels/%EC%A0%91%EA%B7%BC%EC%84%B1%20%EA%B4%80%EB%A0%A8)
 
