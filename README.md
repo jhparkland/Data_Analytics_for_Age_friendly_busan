@@ -54,3 +54,5 @@ Decison Location of Senior Center on Data Analytics for Age-friendly Busan
 
 시니어 센터/노인복지시설
 
+## 인용
+박정현, 김대로, 한정규, 천세진 (2022). GIS와 개방형 데이터를 활용한 부산시 노인복지시설의 적정입지 선정, 2022년 한국멀티미디어학회 춘계학술발표대회
