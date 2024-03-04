@@ -6,7 +6,6 @@ repo: jhparkland/Data_Analytics_for_Age_friendly_busan
 permalink: /:path/:basename:output_ext
 ---
 
-
 Decison Location of Senior Center on Data Analytics for Age-friendly Busan
 고령 친화도시 위한 데이터 기반 최적 경로당 입지 선정 
 
@@ -63,3 +62,5 @@ Decison Location of Senior Center on Data Analytics for Age-friendly Busan
 
 시니어 센터/노인복지시설
 
+## 인용
+박정현, 김대로, 한정규, 천세진 (2022). GIS와 개방형 데이터를 활용한 부산시 노인복지시설의 적정입지 선정, 2022년 한국멀티미디어학회 춘계학술발표대회
